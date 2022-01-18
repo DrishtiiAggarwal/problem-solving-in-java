@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Main {
     public static void main(String args[]) {
-        System.out.println("Hello World!");
+        //System.out.println("Hello World!");
         Scanner sn = new Scanner(System.in);
         int n = sn.nextInt();
        for (int line = 1; line <= n; line++){
